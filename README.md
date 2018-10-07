@@ -10,4 +10,4 @@
 * Final_model1.rda - The Final model
 * Jupyter File detailng the process that was followed in wrangling and modelling
 
-The Web application can be accessed here (here)[https://projectclickstream.shinyapps.io/Attempr/]
+The Web application can be accessed here [here](https://projectclickstream.shinyapps.io/Attempr/)
