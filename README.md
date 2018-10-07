@@ -9,3 +9,5 @@
 * Predictions L1, Predictions L2, HomeTable.csv which are the files generated in the proccess of making the model
 * Final_model1.rda - The Final model
 * Jupyter File detailng the process that was followed in wrangling and modelling
+
+The Web application can be accessed here (here)[https://projectclickstream.shinyapps.io/Attempr/]
